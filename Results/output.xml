@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <robot generator="Robot 6.1.1 (Python 3.8.5 on win32)" generated="20231019 17:42:25.688" rpa="false" schemaversion="4">
-<suite id="s1" name="Crm" source="C:\Users\tonyi\Test Files For VSCode\Robot Framework Learning\Making Script More Readable\Tests\Crm.robot">
+<suite id="s1" name="Crm" source="">
 <test id="s1-t1" name="Should be able to add new customer" line="14">
 <kw name="Begin Web Test" library="CommonApp" type="SETUP">
 <kw name="Open Browser" library="SeleniumLibrary">
